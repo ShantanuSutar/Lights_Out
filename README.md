@@ -13,7 +13,7 @@ As a React application, it provides a smooth and interactive user experience.
 
 ## Live URL
 
-Link : https://shantanusutar.github.io/Lights_Out/
+Link : https://shantanu-lights-out-game.netlify.app/
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/dVqyCv90/Screenshot-206.png
