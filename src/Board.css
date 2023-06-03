@@ -87,3 +87,12 @@ table tr:last-child td:last-child {
     color: #146c80;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .neon-orange {
+    font-size: 40px;
+  }
+  .neon-blue {
+    font-size: 40px;
+  }
+}
